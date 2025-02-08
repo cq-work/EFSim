@@ -1,0 +1,1 @@
+/mnt/ssd1/cq/DATASET/VOC/val/images/2008_004910.jpg
