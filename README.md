@@ -10,7 +10,7 @@ This is a parameterized Chisel-based hardware library
 ## Setup
 1. Verilator
 
-    cd sim_engine/main
+    cd sim_engine
 
     make parallel_veri_sim       ** or **      make parallel_veri_sys
     
